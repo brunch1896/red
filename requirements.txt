@@ -1,2 +1,6 @@
 openai
 langchain
+bs4
+os
+requests
+re
